@@ -3,3 +3,9 @@ Banglaore
 AWS LINUX SHELL SCRIPTING  DOCKER KUBERNETES
 33rd A Cross 4th T Block jayanagar behind vijaya college HSR Layout Pin code: 560061
 Hobbies: Reading,Singing,Coding,Learing new languages,exploring new places
+Skills Sets
+AWS CA003
+CKAD
+CKA
+RHEL9
+CISCO CCNA,CCNP,RHEL8
