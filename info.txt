@@ -11,4 +11,3 @@ RHEL9
 CISCO CCNA,CCNP,RHEL8
  This i am working on task1 Branch
 Git is a powerful tool
-KUBERNETES is a important skill in Devops
